@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Support</title>
+</head>
+<body style="font-family: Arial, sans-serif; max-width: 800px; margin: 40px auto; line-height: 1.5; padding: 0 16px;">
+  <h1>Support</h1>
+
+  <p>If you need help with Where’s Trump, contact:</p>
+
+  <p><strong>Email:</strong> developer.findtrump@gmail.com</p>
+
+  <p>Please include your device model, iOS version, and a brief description of the issue.</p>
+</body>
+</html>
